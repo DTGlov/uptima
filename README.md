@@ -10,4 +10,4 @@ Submitted Project during Enyata Academy.
 ### Contact Section 
 ![Alt Text](https://github.com/DTGlov/uptima/blob/main/readmeImgs/contact.png)
 ### Footer Section 
-![Alt Text](https://github.com/DTGlov/uptima/blob/main/readmeImgs/footer.png)
+![Alt Text](https://github.com/DTGlov/uptima/blob/main/readmeImgs/foot.png)
